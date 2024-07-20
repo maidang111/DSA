@@ -1,7 +1,7 @@
 # Sorting Algorthms Cheat Sheet
 
 ## Bubble sort:
-Time: O($N^2$)
+Time: O($N^2$)\
 Space: O(1)
 
 ```
