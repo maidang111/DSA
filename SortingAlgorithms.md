@@ -1,8 +1,9 @@
 # Sorting Algorthms Cheat Sheet
 
-## Bubble sort:\
-Time: O(N^2)\
-Space: O(N)\
+## Bubble sort:
+Time: O($N^2$)
+Space: O(1)
+
 ```
 func sortArray(_ nums: [Int]) -> [Int] {
         var nums = nums
